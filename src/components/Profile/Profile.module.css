@@ -1,0 +1,7 @@
+.item {
+    padding-left: 12px;
+}
+
+.item.active {
+    color: blueviolet;
+}
